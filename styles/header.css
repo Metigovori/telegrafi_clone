@@ -1,0 +1,172 @@
+#logo{
+    width: 170px;
+    margin-left: 80px;
+    margin-right: 300px;
+}
+
+#logo-small-screen{
+  width: 170px;
+}
+
+
+
+
+@media (max-width: 767px) {
+  .navbar {
+    height: 60px;
+  }
+}
+
+
+
+
+.navbar{
+    height:50px;
+}
+
+#navitem{
+    color: rgb(57, 57, 57);
+    text-underline-offset: 0.125rem;
+    font-size: 1rem;
+    line-height: 1.5em;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#navitem:hover{
+    color: rgb(178, 0, 107);
+}
+
+
+
+
+.navbar .nav-item{
+    color: black;
+   
+    font-size: .875rem;
+    line-height: 1.5em;
+    font-weight: 500;
+     transition: text-decoration-color .3s ease-in-out,color .3s ease-in-out;
+}
+
+.navbar .nav-item:hover{
+    color: rgb(178, 0, 107);
+    text-decoration: underline solid;
+    text-decoration-thickness: 0.125rem!important;
+}
+
+
+/* burger menu */
+
+.menu-btn {
+  width: 33px;
+  transform: translate(-50%,-50%);  
+  cursor: pointer;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .custom-toggler {
+    margin-bottom: 5px;
+  }
+}
+
+.menu-btn:before,
+.menu-btn:after {
+  background-color: #2f2f2f;
+  content: '';
+  display: block;
+  height: 3px;
+  transition: all 200ms ease-in-out;
+}
+.menu-btn:before {
+  box-shadow: 0 10px 0 #2f2f2f;
+  margin-bottom: 16px;
+}
+.menu-btn:hover:before {
+  box-shadow: 0 0 0 #ffffff;
+  transform: translateY(10px) rotate(45deg);
+}
+.menu-btn:hover:after{
+  transform: translateY(-10px) rotate(-45deg);
+}
+/* end of burger menu */
+
+
+/*linksbar*/
+
+.linksbar-container {
+  position: absolute; /* Change to relative for responsiveness */
+  margin: 0;
+  padding: 0;
+}
+
+.linksbar-container ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap; /* Allow items to wrap to new lines */
+}
+
+.linksbar-container li {
+  margin-right: 10px;
+  margin-bottom: 10px; /* Add spacing between rows */
+}
+
+.linksbar-container .nav-link {
+  color: black;
+  font-size: .875rem;
+  line-height: 1.5em;
+  font-weight: 500;
+  transition: text-decoration-color .3s ease-in-out, color .3s ease-in-out;
+}
+
+.linksbar-container .nav-link:hover {
+  color: rgb(178, 0, 107);
+  text-decoration: underline solid;
+  text-decoration-thickness: 0.125rem!important;
+}
+
+
+@media (max-width: 768px) {
+  .linksbar-container {
+   display: none;
+  }
+ 
+}
+
+  
+
+/*Sidebar*/
+
+
+.always-show {
+  display: block !important;
+  height: 40px;
+  width: 60px;
+}
+
+.sidebar {
+    z-index: 100;
+    position: fixed;
+    top: 100;
+    left: -250px; 
+    width: 250px;
+    height: 100vh;
+    background-color: #343a40;
+    transition: left 0.3s;
+
+  }
+  .sidebar.active {
+    left: 0;
+  }
+
+  
+
+
+
+
+
+
+

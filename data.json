@@ -1,0 +1,60 @@
+{
+    "pagination": {
+      "limit": 25,
+      "offset": 0,
+      "count": 25,
+      "total": 10000
+    },
+    "data": [
+        {"author":"A. Joseph Dial, Purdue University","title":"The Film \u2018Air\u2019 Isn\u2019t Actually About Michael Jordan At All","description":"The film \u201cAir,\u201d which tells the story of Nike\u2019s signing of Michael Jordan, isn\u2019t actually about Michael Jordan at all.","url":"https:\/\/newsone.com\/4571143\/the-film-air-isnt-actually-about-michael-jordan-at-all\/","source":"newsone","image":"https:\/\/newsone.com\/wp-content\/uploads\/sites\/22\/2023\/04\/16828543702541.jpg?quality=80\u0026strip=all\u0026w=560\u0026crop=0,0,100,320px","category":"general","language":"en","country":"us","published_at":"2023-05-01T00:00:43+00:00"},
+      {
+        "author": "Jacquelin Magnay",
+        "title": "From the Archives, 1998: Susie O’Neill swims into the history books",
+        "description": "In 1998, Susan O’Neill received a standing ovation and thunderous applause when she became the most prolific Australian titleholder in swimming history at a packed Melbourne Aquatic Centre.",
+        "url": "https://www.watoday.com.au/sport/swimming/from-the-archives-1998-susie-o-neill-swims-into-the-history-books-20230427-p5d3tq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "source": "watoday",
+        "image": "https://static.ffx.io/images/$zoom_0.3711%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/fe90c68d366cd960ec093b26ed73feee979b54e9",
+        "category": "general",
+        "language": "en",
+        "country": "au",
+        "published_at": "2023-05-01T00:00:00+00:00"
+      },
+      {
+        "author":"","title":"Andrew Dillon named new AFL CEO","description":"The new AFL CEO has been confirmed with Andrew Dillon being named as the successor to the top job.","url":"https:\/\/www.smh.com.au\/sport\/afl\/andrew-dillon-named-new-afl-ceo-20230501-p5d4lk.html?ref=rss\u0026utm_medium=rss\u0026utm_source=rss_sport_afl","source":"The Sydney Morning Herald","image":"https:\/\/static.ffx.io\/images\/$width_800%2C$height_450\/t_crop_fill\/q_86%2Cf_jpg\/1e626d138741f970ce6c64a6098fe77fcf525d9d","category":"sports","language":"en","country":"au","published_at":"2023-05-01T02:14:07+00:00"
+    },
+      {
+        "author":"rbksa","title":"Sudan\u2019s army RSF extend truce, despite ongoing clashes","description":"KHARTOUM: Sudan\u2019s army and its rival paramilitary said Sunday they will extend a humanitarian cease-fire a further 72 hours. The decision follows international pressure to allow the safe passage of civilians and aid but the shaky truce has not so far stopped the clashes. In statements, both sides accused the other of violations. The agreement has deescalated the fighting in some areas but violence continues to push civilians to flee. Aid groups have also struggled to get badly needed supplies into the country.","url":"https:\/\/www.arabnews.com\/node\/2295486\/middle-east","source":"arabnews","image":null,"category":"general","language":"en","country":"us","published_at":"2023-05-01T00:36:07+00:00"
+    },
+    {
+        "author":"Michael Carpenter, Yardbarker","title":"Plagued by bad contracts and poor effort, it\u0027s time for a White Sox fire sale","description":"After their victory Sunday, the White Sox are currently 8-21 the third-worst record in the MLB despite having the 12th-highest payroll at just over $183M","url":"https:\/\/www.yardbarker.com\/mlb\/articles\/plagued_by_bad_contracts_and_poor_effort_its_time_for_a_white_sox_fire_sale\/s1_13132_38763491","source":"Yardbarker","image":"http:\/\/www.yardbarker.com\/media\/5\/3\/5302332293dc2ea68aab2934a1c68a3cc424ab17\/thumb_16x9\/time-white-sox-fire-sale.jpg","category":"sports","language":"en","country":"us","published_at":"2023-05-01T00:49:05+00:00"
+    },
+    {"author":"James Jennings","title":"These are the best Sydney gigs to catch in May","description":"Catch a \u201990s electronic music icon, two acts that changed hip-hop forever on the same bill, and a Grammy-nominated Australian band who impressed Prince.","url":"https:\/\/www.smh.com.au\/culture\/music\/best-sydney-gigs-may-fatboy-slim-wu-tang-clan-nas-20230420-p5d212.html?ref=rss\u0026utm_medium=rss\u0026utm_source=rss_feed","source":"The Sydney Morning Herald","image":"https:\/\/static.ffx.io\/images\/$zoom_0.1558%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52\/t_crop_custom\/q_86%2Cf_jpg\/dc3f9954d4aa3d5ee36642472f4124c7b568b33e","category":"general","language":"en","country":"au","published_at":"2023-05-01T00:47:30+00:00"},
+    {"author":"Michael Carpenter, Yardbarker","title":"Plagued by bad contracts and poor effort, it\u0027s time for a White Sox fire sale","description":"After their victory Sunday, the White Sox are currently 8-21 the third-worst record in the MLB despite having the 12th-highest payroll at just over $183M","url":"https:\/\/www.yardbarker.com\/mlb\/articles\/plagued_by_bad_contracts_and_poor_effort_its_time_for_a_white_sox_fire_sale\/s1_13132_38763491","source":"Yardbarker","image":"http:\/\/www.yardbarker.com\/media\/5\/3\/5302332293dc2ea68aab2934a1c68a3cc424ab17\/thumb_16x9\/time-white-sox-fire-sale.jpg","category":"sports","language":"en","country":"us","published_at":"2023-05-01T00:49:05+00:00"},
+      {
+        "author": "Angus Dalton",
+        "title": "‘Had to see it with my own eyes’: Crocodile found in suburban backyard",
+        "description": "A crocodile that was likely an illegal pet set free was discovered roaming the suburbs.",
+        "url": "https://www.smh.com.au/national/nsw/had-to-see-it-with-my-own-eyes-crocodile-found-in-suburban-backyard-20230501-p5d4ie.html?ref=rss&utm_medium=rss&utm_source=rss_national_nsw",
+        "source": "The Sydney Morning Herald",
+        "image": "https://static.ffx.io/images/$zoom_0.38074834013278935%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_100%2C$y_109/t_crop_custom/q_86%2Cf_jpg/1415ba4c4304f058cd030388b52d0d1257be4b09",
+        "category": "general",
+        "language": "en",
+        "country": "au",
+        "published_at": "2023-05-01T00:00:43+00:00"
+      },
+      {
+        "author": "A. Joseph Dial, Purdue University",
+        "title": "The Film ‘Air’ Isn’t Actually About Michael Jordan At All",
+        "description": "The film “Air,” which tells the story of Nike’s signing of Michael Jordan, isn’t actually about Michael Jordan at all.",
+        "url": "https://newsone.com/4571143/the-film-air-isnt-actually-about-michael-jordan-at-all/",
+        "source": "newsone",
+        "image": "https://newsone.com/wp-content/uploads/sites/22/2023/04/16828543702541.jpg?quality=80&strip=all&w=560&crop=0,0,100,320px",
+        "category": "general",
+        "language": "en",
+        "country": "us",
+        "published_at": "2023-05-01T00:00:43+00:00"
+      },
+      {"author":"","title":"Andrew Dillon named new AFL CEO","description":"The new AFL CEO has been confirmed with Andrew Dillon being named as the successor to the top job.","url":"https:\/\/www.smh.com.au\/sport\/afl\/andrew-dillon-named-new-afl-ceo-20230501-p5d4lk.html?ref=rss\u0026utm_medium=rss\u0026utm_source=rss_sport_afl","source":"The Sydney Morning Herald","image":"https:\/\/static.ffx.io\/images\/$width_800%2C$height_450\/t_crop_fill\/q_86%2Cf_jpg\/1e626d138741f970ce6c64a6098fe77fcf525d9d","category":"sports","language":"en","country":"au","published_at":"2023-05-01T02:14:07+00:00"}
+    ]
+  }
+  
